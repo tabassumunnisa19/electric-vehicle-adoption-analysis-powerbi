@@ -74,10 +74,7 @@ The dashboard is designed to support **exploratory analysis, insight generation,
 electric-vehicle-adoption-analysis-powerbi/
 │
 ├── PowerBI/
-│   └── Electric_car_Adaptation_Analysis_PBI_Project.pbix
-│
-├── data/        
-│   └── processed/     
+│   └── Electric_car_Adaptation_Analysis_PBI_Project.pbix   
 │
 ├── images/
 │   ├── dashboard-overview.png
